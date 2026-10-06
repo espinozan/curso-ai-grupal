@@ -87,6 +87,6 @@ pip install -r requirements.txt
 - `resultados/grafico_morosidad_producto.png`: gráfico del análisis.
 - `data/README.md`: dónde colocar el CSV original.
 
-## Qué llevaría yo a la reunión del grupo
+## Qué hice para el grupo?
 
 > Analicé la morosidad por producto. No modifiqué ni normalicé los datos porque primero estamos haciendo exploración y necesitamos conservar la escala original. Revisé calidad, encontré faltantes pero no los imputé, y comprobé cantidad y proporción de morosos por producto. Mi propuesta es usar esta comparación como uno de nuestros hallazgos y después investigar si la diferencia se mantiene al considerar otras variables.
